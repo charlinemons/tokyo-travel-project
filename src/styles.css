@@ -86,6 +86,7 @@ body {
 .instagram-embeds {
   margin: 30px 0;
 }
+
 section {
   max-width: 100%;
   margin: 0 auto;
@@ -194,7 +195,6 @@ footer {
   background-repeat: no-repeat;
   background-size: cover;
   color: white;
-  padding: 100px 0;
 }
 
 footer h3 {
